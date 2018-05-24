@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <project name="JSudoku" default="main">
     <!-- define names of directories -->
-    <property name="src" location="src"/>
+    <property name="src" location="Sudoku-src"/>
     <property name="build" location="build"/>
     <property name="classes" location="${build}/classes"/>
     <property name="classpath" value="${classes}"/>
